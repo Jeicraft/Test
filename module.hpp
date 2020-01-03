@@ -1,3 +1,5 @@
+/* module.hpp */
+
 int fuckingawesome(int a, const int b)
 {
 	if (a == b)
