@@ -1,4 +1,4 @@
-int fuckingawesome(int *a, connt int *b)
+int fuckingawesome(int a, const int b)
 {
 	if (a == b)
 		return 0;
